@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class Palindrom {
 
 	public static void main(String[] args) {
 
